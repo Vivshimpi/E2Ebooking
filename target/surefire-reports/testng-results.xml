@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-04-06T17:31:24 IST" name="Suite" finished-at="2024-04-06T17:31:38 IST" duration-ms="13631">
+  <suite started-at="2024-04-07T19:16:46 IST" name="Suite" finished-at="2024-04-07T19:17:04 IST" duration-ms="17994">
     <groups>
     </groups>
-    <test started-at="2024-04-06T17:31:24 IST" name="Test" finished-at="2024-04-06T17:31:38 IST" duration-ms="13631">
+    <test started-at="2024-04-07T19:16:46 IST" name="Test" finished-at="2024-04-07T19:17:04 IST" duration-ms="17994">
       <class name="testPack.TC01_VerifyLoginFunctionaliity">
-        <test-method is-config="true" signature="preMethod()[pri:0, instance:testPack.TC01_VerifyLoginFunctionaliity@6973b51b]" started-at="2024-04-06T17:31:24 IST" name="preMethod" finished-at="2024-04-06T17:31:35 IST" duration-ms="10910" status="PASS">
+        <test-method is-config="true" signature="preMethod()[pri:0, instance:testPack.TC01_VerifyLoginFunctionaliity@6973b51b]" started-at="2024-04-07T19:16:46 IST" name="preMethod" finished-at="2024-04-07T19:17:01 IST" duration-ms="14957" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- preMethod -->
-        <test-method signature="verifyLoginFunctionaliity()[pri:0, instance:testPack.TC01_VerifyLoginFunctionaliity@6973b51b]" started-at="2024-04-06T17:31:35 IST" name="verifyLoginFunctionaliity" finished-at="2024-04-06T17:31:38 IST" duration-ms="2551" status="PASS">
+        <test-method signature="verifyLoginFunctionaliity()[pri:0, instance:testPack.TC01_VerifyLoginFunctionaliity@6973b51b]" started-at="2024-04-07T19:17:01 IST" name="verifyLoginFunctionaliity" finished-at="2024-04-07T19:17:04 IST" duration-ms="2840" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLoginFunctionaliity -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testPack.TC01_VerifyLoginFunctionaliity@6973b51b]" started-at="2024-04-06T17:31:38 IST" name="tearDown" finished-at="2024-04-06T17:31:38 IST" duration-ms="143" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testPack.TC01_VerifyLoginFunctionaliity@6973b51b]" started-at="2024-04-07T19:17:04 IST" name="tearDown" finished-at="2024-04-07T19:17:04 IST" duration-ms="165" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

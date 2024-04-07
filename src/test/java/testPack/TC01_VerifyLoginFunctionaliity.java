@@ -2,6 +2,7 @@ package testPack;
 
 import java.io.IOException;
 
+import org.testng.Assert;
 import org.testng.annotations.Test;
 
 import pomPack.LoginPagePOMClass;
@@ -19,5 +20,21 @@ public void verifyLoginFunctionaliity() throws InterruptedException, IOException
 	
 	UtilityClass.screenShotMethod(driver, "loginPage");
 	log.info("login page snap taken");
+	
+	log.info("Apply Validation");
+	String expected = "CURA Healthcare Service";
+	
+	String actual = driver.getTitle();
+	
+	Assert.assertEquals(actual, expected, actual);
+	
+	if(expected.equals(actual))
+	{
+		log.info("Case passed");
+	}
+	else
+	{
+		log.info("Case failed");
+    }
 }
 }

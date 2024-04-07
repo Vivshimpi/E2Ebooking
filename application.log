@@ -21,3 +21,32 @@
 2024-04-06 17:31:38,269  INFO [main] E2Ebooking:21 - login page snap taken
 2024-04-06 17:31:38,413  INFO [main] E2Ebooking:50 - browser is closed
 2024-04-06 17:31:38,413  INFO [main] E2Ebooking:51 - End of Script
+2024-04-07 19:10:06,919  INFO [main] E2Ebooking:27 - Browser is opened
+2024-04-07 19:10:09,061  INFO [main] E2Ebooking:35 - Browser is maximized
+2024-04-07 19:10:13,787  INFO [main] E2Ebooking:39 - Url is opened
+2024-04-07 19:10:16,357  INFO [main] E2Ebooking:43 - Loginpage snap taken
+2024-04-07 19:10:16,879  INFO [main] E2Ebooking:18 - Clicked on Make Appointment button
+2024-04-07 19:10:18,991  INFO [main] E2Ebooking:22 - login page snap taken
+2024-04-07 19:10:18,991  INFO [main] E2Ebooking:24 - Apply Validation
+2024-04-07 19:10:19,000  INFO [main] E2Ebooking:33 - Case passed
+2024-04-07 19:10:19,180  INFO [main] E2Ebooking:50 - browser is closed
+2024-04-07 19:10:19,180  INFO [main] E2Ebooking:51 - End of Script
+2024-04-07 19:14:37,135  INFO [main] E2Ebooking:27 - Browser is opened
+2024-04-07 19:14:39,290  INFO [main] E2Ebooking:35 - Browser is maximized
+2024-04-07 19:14:44,934  INFO [main] E2Ebooking:39 - Url is opened
+2024-04-07 19:14:47,610  INFO [main] E2Ebooking:43 - Loginpage snap taken
+2024-04-07 19:14:48,046  INFO [main] E2Ebooking:18 - Clicked on Make Appointment button
+2024-04-07 19:14:50,162  INFO [main] E2Ebooking:22 - login page snap taken
+2024-04-07 19:14:50,162  INFO [main] E2Ebooking:24 - Apply Validation
+2024-04-07 19:14:50,327  INFO [main] E2Ebooking:50 - browser is closed
+2024-04-07 19:14:50,328  INFO [main] E2Ebooking:51 - End of Script
+2024-04-07 19:16:48,193  INFO [main] E2Ebooking:27 - Browser is opened
+2024-04-07 19:16:50,347  INFO [main] E2Ebooking:35 - Browser is maximized
+2024-04-07 19:16:58,866  INFO [main] E2Ebooking:39 - Url is opened
+2024-04-07 19:17:01,480  INFO [main] E2Ebooking:43 - Loginpage snap taken
+2024-04-07 19:17:02,187  INFO [main] E2Ebooking:18 - Clicked on Make Appointment button
+2024-04-07 19:17:04,309  INFO [main] E2Ebooking:22 - login page snap taken
+2024-04-07 19:17:04,309  INFO [main] E2Ebooking:24 - Apply Validation
+2024-04-07 19:17:04,320  INFO [main] E2Ebooking:33 - Case passed
+2024-04-07 19:17:04,486  INFO [main] E2Ebooking:50 - browser is closed
+2024-04-07 19:17:04,486  INFO [main] E2Ebooking:51 - End of Script
