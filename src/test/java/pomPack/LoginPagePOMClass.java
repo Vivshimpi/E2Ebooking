@@ -17,6 +17,30 @@ public class LoginPagePOMClass
 	  makeAppointmentBtn.click();  
   }
   
+  @FindBy(xpath="//input[@id='txt-username']")
+  WebElement username;
+  
+  public void sendUserName()
+  {
+	  username.sendKeys("John Doe"); 
+  }
+  
+  @FindBy(xpath="//input[@id='txt-password']")
+  WebElement password;
+  
+  public void sendPassword()
+  {
+	  password.sendKeys("ThisIsNotAPassword"); 
+  }
+  
+  @FindBy(xpath="//button[@id=\"btn-login\"]")
+  WebElement loginBtn;
+  
+  public void clickLoginBtn()
+  {
+	  loginBtn.click();
+  }
+  
   
   
   public LoginPagePOMClass(WebDriver driver)

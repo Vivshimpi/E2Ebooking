@@ -36,5 +36,39 @@ public void verifyLoginFunctionaliity() throws InterruptedException, IOException
 	{
 		log.info("Case failed");
     }
+	
+	lp.sendUserName();
+	log.info("username is entered");
+	Thread.sleep(2000);
+
+	
+	lp.sendPassword();
+	log.info("password is entered");
+	Thread.sleep(2000);
+
+	lp.clickLoginBtn();
+	log.info("clicked ligin btn");
+	Thread.sleep(2000);
+	
+	UtilityClass.screenShotMethod(driver, "MakeAppointmentPage");
+	log.info("MakeAppointmentpage snap taken");
+	
+	log.info("Apply Validation");
+	String expected1 = "https://katalon-demo-cura.herokuapp.com/#appointment";
+	String actual1 = driver.getCurrentUrl();
+	System.out.println(driver.getCurrentUrl());
+	
+	Assert.assertEquals(actual1, expected1, actual1);
+	
+	if(expected1.equals(actual1))
+	{
+		log.info("Case passed");
+	}
+	else
+	{
+		log.info("Case failed");
+    }
+	
+
 }
 }
