@@ -4,6 +4,7 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="testPack.TC01_VerifyLoginFunctionaliity"/>
+      <class name="testPack.TC02_verifyMakeAppointmentFunctionality"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
