@@ -105,6 +105,12 @@ public String getConfirmationText()
 }
 
 
+@FindBy(xpath="//a[text()='Go to Homepage']")WebElement goToHomePageBtn;
+public void clickOnGoToHomePageBtn()
+{
+	goToHomePageBtn.click();
+}
+
 public MakeAppointmentPagePOMClass(WebDriver driver)
 {  
 	this.driver = driver;

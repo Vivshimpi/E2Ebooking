@@ -680,3 +680,128 @@
 2024-04-12 14:37:21,262  INFO [main] E2Ebooking:65 - Case passed
 2024-04-12 14:37:21,537  INFO [main] E2Ebooking:50 - browser is closed
 2024-04-12 14:37:21,537  INFO [main] E2Ebooking:51 - End of Script
+2024-04-13 13:16:24,933  INFO [main] E2Ebooking:27 - Browser is opened
+2024-04-13 13:16:27,074  INFO [main] E2Ebooking:35 - Browser is maximized
+2024-04-13 13:16:31,880  INFO [main] E2Ebooking:39 - Url is opened
+2024-04-13 13:16:34,535  INFO [main] E2Ebooking:43 - Loginpage snap taken
+2024-04-13 13:16:35,079  INFO [main] E2Ebooking:22 - Clicked on Make Appointment button
+2024-04-13 13:16:37,185  INFO [main] E2Ebooking:26 - login page snap taken
+2024-04-13 13:16:37,250  INFO [main] E2Ebooking:30 - username is entered
+2024-04-13 13:16:39,334  INFO [main] E2Ebooking:35 - password is entered
+2024-04-13 13:16:41,971  INFO [main] E2Ebooking:39 - clicked ligin btn
+2024-04-13 13:16:44,085  INFO [main] E2Ebooking:43 - MakeAppointmentpage snap taken
+2024-04-13 13:16:44,085  INFO [main] E2Ebooking:45 - Went on Make Appointment Page
+2024-04-13 13:16:44,255  INFO [main] E2Ebooking:49 - salect from dropdown done
+2024-04-13 13:16:46,313  INFO [main] E2Ebooking:53 - box is checked
+2024-04-13 13:16:48,372  INFO [main] E2Ebooking:57 - clicked on radio button
+2024-04-13 13:16:50,436  INFO [main] E2Ebooking:62 - datepicker is selected
+2024-04-13 13:16:56,544  INFO [main] E2Ebooking:83 - select day of APPOINTMENT
+2024-04-13 13:16:56,544  INFO [main] E2Ebooking:86 - validate day of appointment
+2024-04-13 13:16:56,581  INFO [main] E2Ebooking:95 - Case passed
+2024-04-13 13:16:58,643  INFO [main] E2Ebooking:105 - comment sent to box
+2024-04-13 13:17:00,982  INFO [main] E2Ebooking:111 - Clicked on book appointment button
+2024-04-13 13:17:01,087  INFO [main] E2Ebooking:115 - AppointmentConfirmation snap taken
+2024-04-13 13:17:01,087  INFO [main] E2Ebooking:118 - apply verification for booking confirmation
+2024-04-13 13:17:01,106  INFO [main] E2Ebooking:127 - case passed
+2024-04-13 13:17:03,459  INFO [main] E2Ebooking:136 - went on homePage
+2024-04-13 13:17:03,460  INFO [main] E2Ebooking:138 - apply verification for go to homePage button
+2024-04-13 13:17:03,667  INFO [main] E2Ebooking:50 - browser is closed
+2024-04-13 13:17:03,669  INFO [main] E2Ebooking:51 - End of Script
+2024-04-13 13:19:40,790  INFO [main] E2Ebooking:27 - Browser is opened
+2024-04-13 13:19:42,938  INFO [main] E2Ebooking:35 - Browser is maximized
+2024-04-13 13:19:50,776  INFO [main] E2Ebooking:39 - Url is opened
+2024-04-13 13:19:53,481  INFO [main] E2Ebooking:43 - Loginpage snap taken
+2024-04-13 13:19:53,922  INFO [main] E2Ebooking:22 - Clicked on Make Appointment button
+2024-04-13 13:19:56,029  INFO [main] E2Ebooking:26 - login page snap taken
+2024-04-13 13:19:56,090  INFO [main] E2Ebooking:30 - username is entered
+2024-04-13 13:19:58,165  INFO [main] E2Ebooking:35 - password is entered
+2024-04-13 13:20:00,733  INFO [main] E2Ebooking:39 - clicked login btn
+2024-04-13 13:20:02,849  INFO [main] E2Ebooking:43 - MakeAppointmentpage snap taken
+2024-04-13 13:20:02,850  INFO [main] E2Ebooking:45 - Went on Make Appointment Page
+2024-04-13 13:20:03,006  INFO [main] E2Ebooking:49 - salect from dropdown done
+2024-04-13 13:20:05,083  INFO [main] E2Ebooking:53 - box is checked
+2024-04-13 13:20:07,129  INFO [main] E2Ebooking:57 - clicked on radio button
+2024-04-13 13:20:09,202  INFO [main] E2Ebooking:62 - datepicker is selected
+2024-04-13 13:20:15,334  INFO [main] E2Ebooking:83 - select day of APPOINTMENT
+2024-04-13 13:20:15,335  INFO [main] E2Ebooking:86 - validate day of appointment
+2024-04-13 13:20:15,389  INFO [main] E2Ebooking:95 - Case passed
+2024-04-13 13:20:17,491  INFO [main] E2Ebooking:105 - comment sent to box
+2024-04-13 13:20:19,838  INFO [main] E2Ebooking:111 - Clicked on book appointment button
+2024-04-13 13:20:19,982  INFO [main] E2Ebooking:115 - AppointmentConfirmation snap taken
+2024-04-13 13:20:19,982  INFO [main] E2Ebooking:118 - apply verification for booking confirmation
+2024-04-13 13:20:20,000  INFO [main] E2Ebooking:127 - case passed
+2024-04-13 13:20:22,299  INFO [main] E2Ebooking:136 - went on homePage
+2024-04-13 13:20:22,300  INFO [main] E2Ebooking:138 - apply verification for go to homePage button
+2024-04-13 13:20:22,310  INFO [main] E2Ebooking:148 - case passed
+2024-04-13 13:20:22,553  INFO [main] E2Ebooking:50 - browser is closed
+2024-04-13 13:20:22,554  INFO [main] E2Ebooking:51 - End of Script
+2024-04-13 13:46:17,193  INFO [main] E2Ebooking:27 - Browser is opened
+2024-04-13 13:46:19,356  INFO [main] E2Ebooking:35 - Browser is maximized
+2024-04-13 13:46:24,815  INFO [main] E2Ebooking:39 - Url is opened
+2024-04-13 13:46:27,499  INFO [main] E2Ebooking:43 - Loginpage snap taken
+2024-04-13 13:46:28,124  INFO [main] E2Ebooking:17 - Clicked on Make Appointment button
+2024-04-13 13:46:30,188  INFO [main] E2Ebooking:21 - username is entered
+2024-04-13 13:46:32,265  INFO [main] E2Ebooking:25 - password is entered
+2024-04-13 13:46:35,010  INFO [main] E2Ebooking:29 - clicked on login btn
+2024-04-13 13:46:37,070  INFO [main] E2Ebooking:39 - clicked on Menu btn
+2024-04-13 13:46:39,829  INFO [main] E2Ebooking:43 - clicked on logout btn
+2024-04-13 13:46:41,836  INFO [main] E2Ebooking:47 - Apply Verification for logout
+2024-04-13 13:46:42,056  INFO [main] E2Ebooking:50 - browser is closed
+2024-04-13 13:46:42,056  INFO [main] E2Ebooking:51 - End of Script
+2024-04-13 13:47:39,904  INFO [main] E2Ebooking:27 - Browser is opened
+2024-04-13 13:47:42,056  INFO [main] E2Ebooking:35 - Browser is maximized
+2024-04-13 13:47:50,610  INFO [main] E2Ebooking:39 - Url is opened
+2024-04-13 13:47:53,203  INFO [main] E2Ebooking:43 - Loginpage snap taken
+2024-04-13 13:47:53,976  INFO [main] E2Ebooking:18 - Clicked on Make Appointment button
+2024-04-13 13:47:56,094  INFO [main] E2Ebooking:22 - login page snap taken
+2024-04-13 13:47:56,095  INFO [main] E2Ebooking:24 - Apply Validation
+2024-04-13 13:47:56,103  INFO [main] E2Ebooking:33 - Case passed
+2024-04-13 13:47:56,167  INFO [main] E2Ebooking:41 - username is entered
+2024-04-13 13:47:58,246  INFO [main] E2Ebooking:46 - password is entered
+2024-04-13 13:48:01,011  INFO [main] E2Ebooking:50 - clicked ligin btn
+2024-04-13 13:48:03,118  INFO [main] E2Ebooking:54 - MakeAppointmentpage snap taken
+2024-04-13 13:48:03,119  INFO [main] E2Ebooking:56 - Apply Validation
+2024-04-13 13:48:03,130  INFO [main] E2Ebooking:65 - Case passed
+2024-04-13 13:48:03,350  INFO [main] E2Ebooking:50 - browser is closed
+2024-04-13 13:48:03,352  INFO [main] E2Ebooking:51 - End of Script
+2024-04-13 13:48:04,310  INFO [main] E2Ebooking:27 - Browser is opened
+2024-04-13 13:48:06,453  INFO [main] E2Ebooking:35 - Browser is maximized
+2024-04-13 13:48:12,125  INFO [main] E2Ebooking:39 - Url is opened
+2024-04-13 13:48:14,706  INFO [main] E2Ebooking:43 - Loginpage snap taken
+2024-04-13 13:48:15,290  INFO [main] E2Ebooking:22 - Clicked on Make Appointment button
+2024-04-13 13:48:17,399  INFO [main] E2Ebooking:26 - login page snap taken
+2024-04-13 13:48:17,461  INFO [main] E2Ebooking:30 - username is entered
+2024-04-13 13:48:19,546  INFO [main] E2Ebooking:35 - password is entered
+2024-04-13 13:48:22,346  INFO [main] E2Ebooking:39 - clicked login btn
+2024-04-13 13:48:24,453  INFO [main] E2Ebooking:43 - MakeAppointmentpage snap taken
+2024-04-13 13:48:24,454  INFO [main] E2Ebooking:45 - Went on Make Appointment Page
+2024-04-13 13:48:24,609  INFO [main] E2Ebooking:49 - salect from dropdown done
+2024-04-13 13:48:26,653  INFO [main] E2Ebooking:53 - box is checked
+2024-04-13 13:48:28,695  INFO [main] E2Ebooking:57 - clicked on radio button
+2024-04-13 13:48:30,758  INFO [main] E2Ebooking:62 - datepicker is selected
+2024-04-13 13:48:36,950  INFO [main] E2Ebooking:83 - select day of APPOINTMENT
+2024-04-13 13:48:36,951  INFO [main] E2Ebooking:86 - validate day of appointment
+2024-04-13 13:48:36,983  INFO [main] E2Ebooking:95 - Case passed
+2024-04-13 13:48:39,098  INFO [main] E2Ebooking:105 - comment sent to box
+2024-04-13 13:48:41,543  INFO [main] E2Ebooking:111 - Clicked on book appointment button
+2024-04-13 13:48:41,651  INFO [main] E2Ebooking:115 - AppointmentConfirmation snap taken
+2024-04-13 13:48:41,651  INFO [main] E2Ebooking:118 - apply verification for booking confirmation
+2024-04-13 13:48:41,669  INFO [main] E2Ebooking:127 - case passed
+2024-04-13 13:48:44,111  INFO [main] E2Ebooking:136 - went on homePage
+2024-04-13 13:48:44,112  INFO [main] E2Ebooking:138 - apply verification for go to homePage button
+2024-04-13 13:48:44,120  INFO [main] E2Ebooking:148 - case passed
+2024-04-13 13:48:44,371  INFO [main] E2Ebooking:50 - browser is closed
+2024-04-13 13:48:44,372  INFO [main] E2Ebooking:51 - End of Script
+2024-04-13 13:48:45,252  INFO [main] E2Ebooking:27 - Browser is opened
+2024-04-13 13:48:47,396  INFO [main] E2Ebooking:35 - Browser is maximized
+2024-04-13 13:48:53,304  INFO [main] E2Ebooking:39 - Url is opened
+2024-04-13 13:48:55,740  INFO [main] E2Ebooking:43 - Loginpage snap taken
+2024-04-13 13:48:57,196  INFO [main] E2Ebooking:17 - Clicked on Make Appointment button
+2024-04-13 13:48:59,257  INFO [main] E2Ebooking:21 - username is entered
+2024-04-13 13:49:01,328  INFO [main] E2Ebooking:25 - password is entered
+2024-04-13 13:49:04,190  INFO [main] E2Ebooking:29 - clicked on login btn
+2024-04-13 13:49:06,234  INFO [main] E2Ebooking:39 - clicked on Menu btn
+2024-04-13 13:49:09,003  INFO [main] E2Ebooking:43 - clicked on logout btn
+2024-04-13 13:49:11,005  INFO [main] E2Ebooking:47 - Apply Verification for logout
+2024-04-13 13:49:11,215  INFO [main] E2Ebooking:50 - browser is closed
+2024-04-13 13:49:11,215  INFO [main] E2Ebooking:51 - End of Script

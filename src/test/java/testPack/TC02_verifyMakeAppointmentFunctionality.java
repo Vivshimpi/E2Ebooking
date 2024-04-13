@@ -36,7 +36,7 @@ public class TC02_verifyMakeAppointmentFunctionality extends TestBaseClass
 		Thread.sleep(2000);
 
 		lp.clickLoginBtn();
-		log.info("clicked ligin btn");
+		log.info("clicked login btn");
 		Thread.sleep(2000);
 		
 		UtilityClass.screenShotMethod(driver, "MakeAppointmentPage");
@@ -130,6 +130,48 @@ public class TC02_verifyMakeAppointmentFunctionality extends TestBaseClass
 		{
 			log.info("case fail");
 		}
+		
+		map.clickOnGoToHomePageBtn();
+		Thread.sleep(2000);
+		log.info("went on homePage");
+		
+		log.info("apply verification for go to homePage button");
+
+		
+		String expectedURL = "https://katalon-demo-cura.herokuapp.com/";
+		                     
+		String actualURL = driver.getCurrentUrl();
+		
+		Assert.assertEquals(actualURL, expectedURL, actualURL);
+		if(expectedURL.equals(actualURL))
+		{
+			log.info("case passed");
+		}
+		else
+		{
+			log.info("case fail");
+		}
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 		
 		
 		
